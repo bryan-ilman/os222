@@ -1,1 +1,12 @@
-
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 10 L11 Weekly Assignments
+ZCZC W00 10 L12 Weekly Assignments
+ZCZC W00 10 L13 Weekly Assignments
+ZCZC W00 10 L14 Weekly Assignments
+ZCZC W00 10 L15 Weekly Assignments
+ZCZC W00 10 L16 Weekly Assignments
+ZCZC W00 10 L32 Learn Django
+ZCZC W00 100 L02 OS class
+ZCZC W00 100 L02 OS class
