@@ -1,7 +1,6 @@
 ---
 permalink: LINKS/
 ---
-
 [HOME](.) | [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [TIPS](TIPS/) |  [GitHub Repository](https://github.com/bryan-ilman/os222/)
 
 # LINKS
