@@ -1,5 +1,5 @@
 ---
-permalink: /TIPS/
+permalink: TIPS/
 ---
 
 # TIPS
