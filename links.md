@@ -1,7 +1,6 @@
 ---
-permalink: LINKS/
+permalink: /LINKS/
 ---
-[HOME](.) | [LOG](TXT/mylog.txt) | [GitHub Repository](https://github.com/bryan-ilman/os222/)
 
 # LINKS
 
