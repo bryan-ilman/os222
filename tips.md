@@ -1,5 +1,0 @@
----
-permalink: /TIPS/
----
-
-# TIPS
