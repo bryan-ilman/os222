@@ -24,6 +24,16 @@ As a computer science student, I think I need to have a solid understanding abou
 3. [Multiple Processor Systems](https://www.youtube.com/watch?v=3RvkfuXUv1c)<br>
 If you regularly use VM then you should know how the main resources in your computer work. For that, this video will give you a satisfying explanation of how multiple processors are dedicated to perform tasks.
 
+## Week 02
+1. [How does SSH work?](https://www.youtube.com/watch?v=GSIDS_lvRv4)<br>
+This video offers a great explanation. Before I watched it I never really understood the concept of SSH and it bothered me very much being a programmer but I now understand the value of it.
+2. [The basics of checksum](https://www.youtube.com/watch?v=RFOGDY2e0mQ)<br>
+In the video, Eddie Woo really manages to help me understand just enough about checksum that I now feel comfortable using it in my program. He only used simple words and that is just brilliant.
+3. [RegEx summary](https://www.geeksforgeeks.org/write-regular-expressions/)<br>
+all you need to know about RegEx is right here on this site. It teaches the simple way to use RegEx.
+4. [First step into bash scripting](https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/)<br>
+Bash scripting is really something useful to execute lines of instructions just using the command lines. If you want to truly master Linux, this is an important skill you need to acquire.
+
 <br>
 <hr>
 last updated: 10 September 2022
