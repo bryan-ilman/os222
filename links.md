@@ -36,6 +36,6 @@ Bash scripting is really something useful to execute lines of instructions just 
 
 <br>
 <hr>
-last updated: 10 September 2022
+last updated: 15 September 2022
 <hr>
 <br>
