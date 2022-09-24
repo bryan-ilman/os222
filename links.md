@@ -34,8 +34,16 @@ all you need to know about RegEx is right here on this site. It teaches the simp
 4. [First step into bash scripting](https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/)<br>
 Bash scripting is really something useful to execute lines of instructions just using the command lines. If you want to truly master Linux, this is an important skill you need to acquire.
 
+## Week 03
+1. [Linux File System](https://www.youtube.com/watch?v=roES8iAaJEM)<br>
+To become a professional Linux administrator, you must master Linux file system. Here is the something to help you start with that.
+2. [What is root](https://www.youtube.com/watch?v=CI4ltKDbJTE)<br>
+Having a deep understanding of root user is crucial because root user has unlimited privileges like no other users. So you must obtain the knowledge before anything else as a Linux user.
+3. [Linux alias command summary with examples](https://www.youtube.com/watch?v=Qskoln3K6SU)<br>
+In Linux, alias can be so helpful to shorten long commands that you want to repeat. Aliases can be used multiple times as long as you don't reboot the system.
+
 <br>
 <hr>
-last updated: 15 September 2022
+last updated: 24 September 2022
 <hr>
 <br>
