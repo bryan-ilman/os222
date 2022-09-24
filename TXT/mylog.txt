@@ -34,3 +34,11 @@ ZCZC W02 30 L13 Weekly Assignments
 ZCZC W02 45 L14 Weekly Assignments
 ZCZC W02 15 L15 Weekly Assignments
 ZCZC W02 30 L16 Weekly Assignments
+ZCZC W03 120 L70 Studying for other courses.
+ZCZC W03 60 L11 Weekly Assignments
+ZCZC W03 30 L12 Weekly Assignments
+ZCZC W03 30 L13 Weekly Assignments
+ZCZC W03 120 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W03 120 L63 Fixing Hardware Problems
+ZCZC W03 120 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W03 120 L82 Reading Book (paper or online)
