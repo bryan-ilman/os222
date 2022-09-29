@@ -42,8 +42,14 @@ Having a deep understanding of root user is crucial because root user has unlimi
 3. [Linux alias command summary with examples](https://www.youtube.com/watch?v=Qskoln3K6SU)<br>
 In Linux, alias can be so helpful to shorten long commands that you want to repeat. Aliases can be used multiple times as long as you don't reboot the system.
 
+## Week 04
+1. [Linux Library](https://opensource.com/article/21/2/linux-software-libraries)<br>
+Writing thousands of lines of codes can be very frustrating and prone to bugs. However, the good news is some people may already write the code that you need for you and you can access it with Linux open, public libaries.
+2. [Memory pointer in Linux](https://linuxhint.com/use-pointers-c/)<br>
+Knowing how the memory works is crucial if you want your code to work efficiently. That's why you have to pay attention to details!
+
 <br>
 <hr>
-last updated: 24 September 2022
+last updated: 30 September 2022
 <hr>
 <br>
