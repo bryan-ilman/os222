@@ -48,8 +48,8 @@ Writing thousands of lines of codes can be very frustrating and prone to bugs. H
 2. [Memory pointer in Linux](https://linuxhint.com/use-pointers-c/)<br>
 Knowing how the memory works is crucial if you want your code to work efficiently. That's why you have to pay attention to details!
 
-<br>
-<hr>
-last updated: 30 September 2022
-<hr>
+## Week 05
+1. [Memory in Operating System](https://www.youtube.com/watch?v=p9yZNLeOj4s)<br>
+In order to get a full comprehension about OS you need to know about the memory segmentation. It is about how memory is divided for each process.
+
 <br>
