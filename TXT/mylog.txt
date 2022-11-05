@@ -59,3 +59,11 @@ ZCZC W05 180 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W05 120 L63 Fixing Hardware Problems
 ZCZC W05 120 L88 Workout/Sport/Exercise/ETC.
 ZCZC W05 120 L82 Reading Book (paper or online)
+ZCZC W06 60 L11 Weekly Assignments
+ZCZC W06 60 L12 Weekly Assignments
+ZCZC W06 60 L13 Weekly Assignments
+ZCZC W06 60 L14 Weekly Assignments
+ZCZC W06 120 L88 Workout/Sport/Exercise/ETC.
+ZCZC W06 120 L02 ZOOM meetings related
+ZCZC W06 120 L07 Demo related
+ZCZC W06 120 L70 Studying for other courses.
