@@ -67,3 +67,11 @@ ZCZC W06 120 L88 Workout/Sport/Exercise/ETC.
 ZCZC W06 120 L02 ZOOM meetings related
 ZCZC W06 120 L07 Demo related
 ZCZC W06 120 L70 Studying for other courses.
+ZCZC W07 60 L11 Weekly Assignments
+ZCZC W07 60 L12 Weekly Assignments
+ZCZC W07 60 L13 Weekly Assignments
+ZCZC W07 60 L14 Weekly Assignments
+ZCZC W07 120 L82 Reading Book (paper or online)
+ZCZC W07 120 L70 Studying for other courses.
+ZCZC W07 120 L88 Workout/Sport/Exercise/ETC.
+ZCZC W07 120 L02 ZOOM meetings related
